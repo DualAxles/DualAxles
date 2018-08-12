@@ -1,31 +1,25 @@
-<!DOCTYPE html>
-<html>
-<head>
+---
+layout: page
+title: Welcome to Smokephisticated
+---
 
-<title>Welcome to Dualaxles.com</title>
-</head>
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-<body>
-  <a href="./index.html">Dual Axles</a>
-  <h1>Dual Axles</h1>
-  <div id="introduction">
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-  <h2>Welcome to DualAxles.com</h2>
-  <h3>Your go-to Moped and Motor Scooter Guide</h3>
- 
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
 
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
 
-</body>
+Learn more about us<a target="_blank" href="smokephisticated.com/about">here</a>.
 
+<a target="_blank" href="smokephisticated.com/bongs">Best Cheap Bongs for Your Money in 2018</a>.
 
-
-
-
-
-
-
-
-
-
-
-</html>
+<a target="_blank" href="smokephisticated.com/bowls">5 Best Bowls for Your Buck (2018)</a>.
