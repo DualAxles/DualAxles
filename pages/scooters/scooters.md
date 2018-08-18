@@ -39,5 +39,11 @@ I've compiled the ultimate lists of the best motor scooters for your buck on the
 <h2>Why Would You Want a Motor Scooter?</h2>
 
 Motor scooters have been around for decades helping people get around. They have been relevant and fantastic forms of 
-transportation since the day they were created. If you enjoy an adventure on the open road or if you just need a good way to get to work, a scooter may just be the thing you are looking for. If you are thinking that scooters are lame or aren't cool; throw that thought right out of your head while you learn the advantages of choosing a scooter!
+
+transportation since the day they were created. If you enjoy an adventure on the open road or if you just need a good way 
+
+to get to work, a scooter may just be the thing you are looking for. If you are thinking that scooters are lame or aren't 
+
+cool; throw that thought right out of your head while you learn the advantages of choosing a scooter!
+
 
