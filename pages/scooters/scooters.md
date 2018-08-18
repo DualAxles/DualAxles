@@ -21,5 +21,5 @@ If you're looking for the best motor scooter money can buy, you're in luck.
 
 I've compiled the ultimate lists of the best motor scooters for your buck on the market.
 
-##Explore Our Motor Scooter Guides
+<h2>Explore Our Motor Scooter Guides</h2>
 
