@@ -20,3 +20,6 @@ Motor scooters are quick, convenient, and best of all, they're cheap!
 If you're looking for the best motor scooter money can buy, you're in luck. 
 
 I've compiled the ultimate lists of the best motor scooters for your buck on the market.
+
+##Explore Our Motor Scooter Guides
+
