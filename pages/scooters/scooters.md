@@ -41,6 +41,16 @@ I've compiled the ultimate lists of the best motor scooters for your buck on the
 Motor scooters have been around for decades helping people get around. They have been relevant and fantastic forms of 
 transportation since the day they were created. If you enjoy an adventure on the open road or if you just need a good way 
 to get to work, a scooter may just be the thing you are looking for. If you are thinking that scooters are lame or aren't 
-cool; throw that thought right out of your head while you learn the advantages of choosing a scooter!
+cool; throw that thought right out of your head while you learn the advantages of choosing a scooter.
 
+Here's a quick list of the reasons you should invest in a scooter!
+<ul>
+	<il>great gas mileage</il>
+	<il>affordable parts & upgrades</il>
+	<il>comfortable to ride</il>
+	<il>easy to ride</il>
+	<il>they don't take up much space</il>
+	<il>simple & cheap maintenance</il>
+	<il>they're simply a blast to cruise with</il>
+</ul>
 
