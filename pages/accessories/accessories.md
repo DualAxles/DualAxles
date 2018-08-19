@@ -5,4 +5,4 @@ permalink: /accessories/
 seotitle: 
 ---
 
-yeehaw
+![scooter article header](/img/silverlogo.png){: .img-right .img-small}
