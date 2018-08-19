@@ -46,12 +46,12 @@ cool; throw that thought right out of your head while you learn the advantages o
 Here's a quick list of the reasons you should invest in a scooter!
 <div>
 <ul>
-	<il>great gas mileage</il>
-	<il>affordable parts & upgrades</il>
-	<il>comfortable to ride</il>
-	<il>easy to ride</il>
-	<il>they don't take up much space</il>
-	<il>simple & cheap maintenance</il>
-	<il>they're simply a blast to cruise with</il>
+	<li>great gas mileage</li>
+	<li>affordable parts & upgrades</li>
+	<li>comfortable to ride</li>
+	<li>easy to ride</li>
+	<li>they don't take up much space</li>
+	<li>simple & cheap maintenance</li>
+	<li>they're simply a blast to cruise with</li>
 </ul>
 </div>
