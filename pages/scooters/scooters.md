@@ -44,6 +44,7 @@ to get to work, a scooter may just be the thing you are looking for. If you are 
 cool; throw that thought right out of your head while you learn the advantages of choosing a scooter.
 
 Here's a quick list of the reasons you should invest in a scooter!
+<div>
 <ul>
 	<il>great gas mileage</il>
 	<il>affordable parts & upgrades</il>
@@ -53,4 +54,4 @@ Here's a quick list of the reasons you should invest in a scooter!
 	<il>simple & cheap maintenance</il>
 	<il>they're simply a blast to cruise with</il>
 </ul>
-
+</div>
