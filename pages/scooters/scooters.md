@@ -56,10 +56,54 @@ Here's a quick list of the reasons you should invest in a scooter!
 	<li>easy to ride</li>
 	<li>they don't take up much space</li>
 	<li>simple & cheap maintenance</li>
-	<li>they're simply a blast to cruise with</li>
+	<li>they're simply a blast to cruise around with</li>
 </ul>
 </div>
 
 <h3>Great Gas Mileage</h3>
+
+One of the many great things about riding a scooter is the incredible gase mileage. Scooters will triumph over cars and motorcycles on MPG.
+
+A four stroke 50cc scooter is more than capable of conquering 100mpg and more. Even the two stroke scooters are easily getting over 80mpg. Many 125cc scooters can also meet around 100mpg. If you happen to be looking for more power, all the way up 300cc you could still be getting well over 60mpg. 
+
+Scooters are kings for saving gas, not to mention money and helping the environment with that gas you are saving. If you care about any of these things, a scooter is a no-brainer decision.
+
+<h3>Affordable Parts & Upgrades</h3>
+
+Say you just got your scooter, and you want to customize and pimp this thing out; no problem! Parts to upgrade your scooter won't break your bank.
+
+To give you an example, it isn't such a crazy thing to find new tires for just around 50 bucks. Also, say you want to make that 50cc scooter you bought to go faster, you can purchase a 100cc big bore kit for under 100 bucks. The list goes on and there are many options.
+
+<h3>Comfortable to Ride</h3>
+
+Unlike a motorcycle where you are straddling the bike between your legs, with a scooter you can comfortably sit normally has if you're sitting on a chair with wheels.
+
+A nice place where you can comfortably put your legs and feet, so you won't fatigue as often.
+
+<h3>Easy to Ride</h3>
+
+All scooters are automatic, meaning you have no clutch or gears to worry about when you're riding. 
+
+Simply twist the throttle and you're in motion. No wonder why people all ages and all over the world ride scooters.
+
+<h3>They Don't Take up Much Space</h3>
+
+Have you ever been in a city wondering what parking space you're going to squeeze your car into? It's way easier to find a place to park your scooter because they're so much smaller than a car.
+
+Scooters are perfect forms of transportation for city-dwellers. Depending where you live, some places allow you to lane split or travel on the shoulder leaving all of that traffic behind you.
+
+<h3>Simple and Cheap Maintenance</h3>
+
+Taking care of your scooter is key for its longevity, and it's easy for any average joe to learn.
+
+Engine oil and tire pressure are going to be the most frequent maintences you'll need to keep track of. Both are inexpensive and the oil you buy will last you a very long time considering scooters don't use much
+
+<h3>They're Simply a Blast to Cruise Around With</h3>
+
+Cruising around on the open road on two wheels will always be fun. 
+
+The adventures you go on and the memories you make will last you a life time.
+
+
 
 
