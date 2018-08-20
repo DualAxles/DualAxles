@@ -50,13 +50,13 @@ cool; throw that thought right out of your head while you learn the advantages o
 Here's a quick list of the reasons you should invest in a scooter!
 <div>
 <ul>
-	<li href="#great gas mileage">great gas mileage</li>
-	<li href="#affordable parts & upgrades">affordable parts & upgrades</li>
-	<li href="#comfortable to ride">comfortable to ride</li>
-	<li href="#easy to ride">easy to ride</li>
-	<li href="#they don't take up much space">they don't take up much space</li>
-	<li href="#simple & cheap maintenance">simple & cheap maintenance</li>
-	<li href="#they're simply a blast to cruise around on">they're simply a blast to cruise around on</li>
+	<li><a href="#great gas mileage">great gas mileage</a></li>
+	<li><a href="#affordable parts & upgrades">affordable parts & upgrades</a></li>
+	<li><a href="#comfortable to ride">comfortable to ride</a></li>
+	<li><a href="#easy to ride">easy to ride</a></li>
+	<li><a href="#they don't take up much space">they don't take up much space</a></li>
+	<li><a href="#simple & cheap maintenance">simple & cheap maintenance</a></li>
+	<li><a href="#they're simply a blast to cruise around on">they're simply a blast to cruise around on</a></li>
 </ul>
 </div>
 
