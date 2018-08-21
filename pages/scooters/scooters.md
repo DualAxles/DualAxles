@@ -21,7 +21,7 @@ If you're looking for the best motor scooter money can buy, you're in luck.
 
 I've compiled the ultimate lists of the best motor scooters for your buck on the market.
 
-<h2>Explore Our Motor Scooter Guides</h2>
+<h2>Best Motor Scooters</h2>
 
 <table class="basic-table" align: center>
 	<thead>
@@ -38,12 +38,12 @@ I've compiled the ultimate lists of the best motor scooters for your buck on the
 			<td><a target="_blank" class="big-button" href="/scooters/50cc/">Guide</a></td>
 		</tr>
 		<tr>
-			<td><img src="/img/scooters/scooter2.jpg" class="table-image"></td>
+			<td><img src="/img/scooters/scooter2.png" class="table-image"></td>
 			<td>100-150cc Scooters</td>
 			<td><a target="_blank" class="big-button" href="/scooters/100-150cc/">Guide</a></td>
 		</tr>
 		<tr>
-			<td><img src="/img/scooters/scooter3.jpg" class="table-image"></td>
+			<td><img src="/img/scooters/scooter3.png" class="table-image"></td>
 			<td>200cc+ Scooters</td>
 			<td><a target="_blank" class="big-button" href="/scooters/200ccplus/">Guide</a></td>
 		</tr>
