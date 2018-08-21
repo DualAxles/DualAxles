@@ -33,9 +33,15 @@ I've compiled the ultimate lists of the best motor scooters for your buck on the
 	</thead>
 	<tbody>
 		<tr>
-		<td><img src="/img/scooters/50cc.jpg" class="table-image"></td>
-		<td>50cc Scooters</td>
-		<td><a target="_blank" class="big-button" href="/scooters/50cc/">Guide</a></td>
+			<td><img src="/img/scooters/50cc.jpg" class="table-image"></td>
+			<td>50cc Scooters</td>
+			<td><a target="_blank" class="big-button" href="/scooters/50cc/">Guide</a></td>
+		</tr>
+		<tr>
+			<td><img src="/img/scooters/scooter2.jpg" class="table-image"></td>
+			<td>100-150cc Scooters</td>
+			<td><a target="_blank" class="big-button" href="/scooters/100-150cc/">Guide</a></td>
+
 		</tr>
 	</tbody>
 </table>
