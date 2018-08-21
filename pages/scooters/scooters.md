@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Best Motor Scooter Guide for 2018
+title: "Best Motor Scooter Guide for 2018"
 permalink: "/scooters/"
-seotitle: 
+seotitle: "Best Motor Scooter Moped For Your Money (2018)"
 ---
 
 <h3 class="page-subtitle">
