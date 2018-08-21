@@ -34,7 +34,7 @@ I've compiled the ultimate lists of the best motor scooters for your buck on the
 	<tbody>
 		<tr>
 		<td>Best Budget 50cc Scooters</td>
-		<td></td>
+		<td>50cc scooters are dope</td>
 		<td><a target="_blank" class="big-button" href="/scooters/50cc/">Guide</a></td>
 		</tr>
 	</tbody>
