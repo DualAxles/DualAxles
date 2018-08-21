@@ -27,6 +27,8 @@ I've compiled the ultimate lists of the best motor scooters for your buck on the
 	<thead>
   		<tr>
 			<th>Scooter Guides</th>
+			<th>Description</th>
+			<th>View</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -104,6 +106,6 @@ Cruising around on the open road on two wheels will always be fun.
 
 The adventures you go on and the memories you make will last you a life time.
 
-
+<h2>50cc Scooters</h2>
 
 
