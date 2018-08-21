@@ -121,3 +121,5 @@ The adventures you go on and the memories you make will last you a life time.
 <h2>50cc Scooters</h2>
 
 <img src="/img/scooters/taotaoatm.jpg" class=".img-right" class=".img-small">
+
+50cc scooters may have the smallest engine, but they are still the perfect thing to take you around town. Despite typically not being able to go over 40mph, they are good options and come with advantages that other scooters don't have.
