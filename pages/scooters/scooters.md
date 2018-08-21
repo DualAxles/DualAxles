@@ -120,4 +120,4 @@ The adventures you go on and the memories you make will last you a life time.
 
 <h2>50cc Scooters</h2>
 
-
+<img src="/img/scooters/taotaoatm.jpg" class=".img-right, .img-small">
