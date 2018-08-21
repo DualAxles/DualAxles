@@ -26,8 +26,8 @@ I've compiled the ultimate lists of the best motor scooters for your buck on the
 <table class="basic-table" align: center>
 	<thead>
   		<tr>
-			<th>Scooter Guides</th>
-			<th>Description</th>
+			<th>IMG</th>
+			<th>Scooter Type</th>
 			<th>View</th>
 		</tr>
 	</thead>
