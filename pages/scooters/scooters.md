@@ -23,8 +23,8 @@ I've compiled the ultimate lists of the best motor scooters for your buck on the
 
 <h2>Best Motor Scooters</h2>
 
-<table class="basic-table" align: center>
-	<thead>
+<table class="basic-table" align: cent
+er>	<thead>
   		<tr>
 			<th>IMG</th>
 			<th>Scooter Type</th>
@@ -134,4 +134,19 @@ Since 50cc scooters are only 50cc, in many states you do not need a motorcycle l
 
 These scooters can also be fun projects if you are a beginner or someone who just likes projects. Aftermarket parts for these fun bikes are heavily available online, so you have the ability to upgrade your scooter and make it perform however you want.
 
-View a quick preview of our recommended scooters here.
+View a quick preview of the best motor scooters for your money here.
+<table class="basic-table" align: cent
+er>	<thead>
+		<tr>
+			<th>50cc Scooter</th>
+			<th>Price</th>
+			<th>Buy</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</tbody>
