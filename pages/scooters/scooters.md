@@ -92,6 +92,9 @@ Say you just got your scooter, and you want to customize and pimp this thing out
 
 To give you an example, it isn't such a crazy thing to find new tires for just around 50 bucks. Also, say you want to make that 50cc scooter you bought to go faster, you can purchase a 100cc big bore kit for under 100 bucks. The list goes on and there are many options.
 
+<div class="vid-container">
+<iframe width="560" height="315" src="https://youtu.be/GE4YGXAky0k?t=55s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <h3 id="comfortable to ride">Comfortable to Ride</h3>
 
 Unlike a motorcycle where you are straddling the bike between your legs, with a scooter you can comfortably sit normally has if you're sitting on a chair with wheels.
