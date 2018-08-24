@@ -28,24 +28,27 @@ I've compiled the ultimate lists of the best motor scooters for your buck on the
   		<tr>
 			<th>IMG</th>
 			<th>Scooter Type</th>
+			<th></th>
 			<th>View</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td><img src="/img/scooters/50cc.jpg" class="table-image"></td>
-			<td>50cc Scooters 
-			Learn More</td>
+			<td>50cc Scooters</td>
+			<td><a href="#50ccscooters">Learn More</a></td>
 			<td><a target="_blank" class="big-button" href="/scooters/50cc/">Guide</a></td>
 		</tr>
 		<tr>
 			<td><img src="/img/scooters/scooter2.png" class="table-image"></td>
 			<td>100-150cc Scooters</td>
+			<td>Learn More</td>
 			<td><a target="_blank" class="big-button" href="/scooters/100-150cc/">Guide</a></td>
 		</tr>
 		<tr>
 			<td><img src="/img/scooters/scooter3.png" class="table-image"></td>
 			<td>200cc+ Scooters</td>
+			<td>Learn More</td>
 			<td><a target="_blank" class="big-button" href="/scooters/200ccplus/">Guide</a></td>
 		</tr>
 	</tbody>
@@ -119,7 +122,7 @@ Cruising around on the open road on two wheels will always be fun.
 
 The adventures you go on and the memories you make will last you a life time.
 
-<h2>50cc Scooters</h2>
+<h2 id="50ccscooters">50cc Scooters</h2>
 
 <img src="/img/scooters/taotaoatm.jpg" id="page-img">
 
