@@ -34,7 +34,8 @@ I've compiled the ultimate lists of the best motor scooters for your buck on the
 	<tbody>
 		<tr>
 			<td><img src="/img/scooters/50cc.jpg" class="table-image"></td>
-			<td>50cc Scooters</td>
+			<td>50cc Scooters 
+			Learn More</td>
 			<td><a target="_blank" class="big-button" href="/scooters/50cc/">Guide</a></td>
 		</tr>
 		<tr>
@@ -120,6 +121,14 @@ The adventures you go on and the memories you make will last you a life time.
 
 <h2>50cc Scooters</h2>
 
-<img src="/img/scooters/taotaoatm.jpg" class=".img-right" class=".img-small">
+<img src="/img/scooters/taotaoatm.jpg" id="page-img">
 
 50cc scooters may have the smallest engine, but they are still the perfect thing to take you around town. Despite typically not being able to go over 40mph, they are good options and come with advantages that other scooters don't have.
+
+Since 50cc scooters are only 50cc, in many states you do not need a motorcycle license to drive one. In some states you do not even need a license or a moped permit. For states like Maryland, you are supposed to drive on the shoulder(if available). Driving on the shoulder may sound like a pain, but this gives you the option of passing traffic and getting ahead of everyone even though you'll probably be going under 40mph. However we recommend checking with your state and local laws, so that you know how you can legally ride your scooter.
+
+50cc scooters offer you the best mpg out of all of the engine sizes for scooters because they need less gass. Being able to go over 100 miles on just one tank of gas is a huge advantage.
+
+These scooters can also be fun projects if you are a beginner or someone who just likes projects. Aftermarket parts for these fun bikes are heavily available online, so you have the ability to upgrade your scooter and make it perform however you want.
+
+View a quick preview of our recommended scooters here.
