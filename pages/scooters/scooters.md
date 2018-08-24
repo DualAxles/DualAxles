@@ -91,9 +91,9 @@ Scooters are kings for saving gas, not to mention money and helping the environm
 Say you just got your scooter, and you want to customize and pimp this thing out; no problem! Parts to upgrade your scooter won't break your bank.
 
 To give you an example, it isn't such a crazy thing to find new tires for just around 50 bucks. Also, say you want to make that 50cc scooter you bought to go faster, you can purchase a 100cc big bore kit for under 100 bucks. The list goes on and there are many options.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GE4YGXAky0k?start=60" class="vid-container" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GE4YGXAky0k?start=60" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 <h3 id="comfortable to ride">Comfortable to Ride</h3>
 
