@@ -94,6 +94,7 @@ To give you an example, it isn't such a crazy thing to find new tires for just a
 
 <div class="vid-container">
 <iframe width="560" height="315" src="https://youtu.be/GE4YGXAky0k?t=55s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 <h3 id="comfortable to ride">Comfortable to Ride</h3>
 
