@@ -150,3 +150,6 @@ er>	<thead>
 			<td></td>
 		</tr>
 	</tbody>
+</table>
+
+<a target="_blank" class="big-button" href="/scooters/50cc/">  View Full Guide  </a>
