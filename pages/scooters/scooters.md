@@ -91,6 +91,7 @@ Scooters are kings for saving gas, not to mention money and helping the environm
 Say you just got your scooter, and you want to customize and pimp this thing out; no problem! Parts to upgrade your scooter won't break your bank.
 
 To give you an example, it isn't such a crazy thing to find new tires for just around 50 bucks. Also, say you want to make that 50cc scooter you bought to go faster, you can purchase a 100cc big bore kit for under 100 bucks. The list goes on and there are many options.
+
 <div class="vid-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GE4YGXAky0k?start=60" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
@@ -150,7 +151,7 @@ er>	<thead>
 		<tr>
 			<td></td>
 			<td></td>
-			<td></td>
+			<td><a target="_blank" href="https://www.amazon.com/gp/product/B00AVBFF3A/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AVBFF3A&linkCode=as2&tag=dualaxles-20&linkId=89c5520cef7150a1f2a0e63d52e358ee">TaoTao ATM-50A1</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=dualaxles-20&l=am2&o=1&a=B00AVBFF3A" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></td>
 		</tr>
 	</tbody>
 </table>
