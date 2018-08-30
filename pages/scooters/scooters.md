@@ -167,6 +167,12 @@ er>	<thead>
 			<td>$810.00</td>
 			<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00J4TW6ZA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00J4TW6ZA&linkCode=as2&tag=dualaxles-20&linkId=a0939b7924b530663d78308072ecb6f1">Buy</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=dualaxles-20&l=am2&o=1&a=B00J4TW6ZA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></td>
 		</tr>
+		<tr>
+			<td><img src="/img/scooters/50cc/taotaoevo50.jpg" class="table-image"></td>
+			<td>TaoTao Evo 50</td>
+			<td>$932.00</td>
+			<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B015L5RLBY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015L5RLBY&linkCode=as2&tag=dualaxles-20&linkId=9b8e56fdb794e35a34816e3cd7f57408">Buy</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=dualaxles-20&l=am2&o=1&a=B015L5RLBY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></td>
+		</tr>
 	</tbody>
 </table>
 
