@@ -42,7 +42,7 @@ er>	<thead>
 		<tr>
 			<td><img src="/img/scooters/scooter2.png" class="table-image"></td>
 			<td>100-150cc Scooters</td>
-			<td><a href="150ccscooters">Learn More</td>
+			<td><a href="#150ccscooters">Learn More</td>
 			<td><a target="_blank" class="big-button" href="/scooters/100-150cc/">Guide</a></td>
 		</tr>
 		<tr>
