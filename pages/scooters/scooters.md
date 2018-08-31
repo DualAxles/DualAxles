@@ -176,7 +176,7 @@ er>	<thead>
 		<tr>
 			<td><img src="/img/scooters/50cc/icebearpmz50.jpg" class="table-image"></td>
 			<td>Ice Bear PMZ50-21</td>
-			<td></td>
+			<td>$1,699.00</td>
 			<td><a target="_blank" class="big-button" href="https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338369808&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FICE-BEAR-NEW-MADDOG-49cc-FULL-SIZE-Motor-Bike-Gas-Scooter-Moped-100-Street-Legal%2F253836754760%3F_trkparms%3Daid%253D111001%2526algo%253DREC.SEED%2526ao%253D1%2526asc%253D20160908105057%2526meid%253D8c5f1fff44164b43ba5bd3cc7bf3a911%2526pid%253D100675%2526rk%253D2%2526rkt%253D9%2526sd%253D192640543493%2526itm%253D253836754760%26_trksid%3Dp2481888.c100675.m4236%26_trkparms%3Dpageci%253A6c6329de-acbb-11e8-89c0-74dbd180e5f9%257Cparentrq%253A8d8d210b1650ac3ce0ee2006fffb4875%257Ciid%253A1">Buy</a></td>
 		</tr>
 	</tbody>
