@@ -98,7 +98,7 @@ To give you an example, it isn't such a crazy thing to find new tires for just a
 
 <h3 id="comfortable to ride">Comfortable to Ride</h3>
 
-Unlike a motorcycle where you are straddling the bike between your legs, with a scooter you can comfortably sit normally has if you're sitting on a chair with wheels.
+Unlike a motorcycle where you are straddling the bike between your legs, with a scooter you can comfortably sit normally as if you're sitting on a chair with wheels.
 
 A nice place where you can comfortably put your legs and feet, so you won't fatigue as often.
 
