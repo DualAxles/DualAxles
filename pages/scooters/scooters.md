@@ -185,3 +185,11 @@ er>	<thead>
 <a target="_blank" class="big-button" href="/scooters/50cc/">  View Full 50cc Guide  </a>
 
 <h2 id="150ccscooters">100-150cc Scooters</h2>
+
+100cc, 110cc, 125cc, and 150cc scooters are some of the most popular motor scooters on the roads. They have enough power to keep up with traffic while still being conservative on gas. These scooters are the perfect median to be your everyday cruising machine.
+
+Scooters with engines of this size aren't quite enough for the highway, but can handle normal streets with ease. They have a way higher rate of acceleration than a 50cc which makes it safer since you can keep up with traffic. 125cc and 150cc scooters are more than capable of reaching speeds of 50mph.
+
+Even though these scooters have increased speed and acceleration, they still have great gas mileage. With a four-stroke engine, 80mpg to 100mpg is still very realistic to achieve.
+
+These scooters are over 50cc so, in most states these scooters will be considered to be motorcycles. Since they're considered motorcycles, you will most likely need some type of motorcycle license to operate one on roads. For more information please look at your local motor scooter and motorcycle laws.
