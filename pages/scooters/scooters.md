@@ -34,19 +34,19 @@ er>	<thead>
 	</thead>
 	<tbody>
 		<tr>
-			<td><img src="/img/scooters/50cc.jpg" class="table-image"></td>
+			<td><img src="/img/scooters/50cc2.jpg" class="table-image"></td>
 			<td>50cc Scooters</td>
 			<td><a href="#50ccscooters">Learn More</a></td>
 			<td><a target="_blank" class="big-button" href="/scooters/50cc/">Guide</a></td>
 		</tr>
 		<tr>
-			<td><img src="/img/scooters/scooter2.png" class="table-image"></td>
+			<td><img src="/img/scooters/scooter22.png" class="table-image"></td>
 			<td>100-150cc Scooters</td>
 			<td><a href="#150ccscooters">Learn More</a></td>
 			<td><a target="_blank" class="big-button" href="/scooters/100-150cc/">Guide</a></td>
 		</tr>
 		<tr>
-			<td><img src="/img/scooters/scooter3.png" class="table-image"></td>
+			<td><img src="/img/scooters/scooter32.png" class="table-image"></td>
 			<td>200cc+ Scooters</td>
 			<td>Learn More</td>
 			<td><a target="_blank" class="big-button" href="/scooters/200ccplus/">Guide</a></td>
@@ -150,25 +150,25 @@ er>	<thead>
 	</thead>
 	<tbody>
 		<tr>
-			<td><img src="/img/scooters/50cc/taotaoatm50.jpg" class="table-image"></td>
+			<td><img src="/img/scooters/50cc/taotaoatm502.jpg" class="table-image"></td>
 			<td>TaoTao ATM-50A1</td>
 			<td>$670.00</td>
 			<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00AVBFF3A/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AVBFF3A&linkCode=as2&tag=dualaxles-20&linkId=89c5520cef7150a1f2a0e63d52e358ee">Buy</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=dualaxles-20&l=am2&o=1&a=B00AVBFF3A" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></td>
 		</tr>
 		<tr>
-			<td><img src="/img/scooters/50cc/taotaocy50.jpg" class="table-image"></td>
+			<td><img src="/img/scooters/50cc/taotaocy502.jpg" class="table-image"></td>
 			<td>TaoTao CY50-A</td>
 			<td>$674.90</td>
 			<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00AVBMXKI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AVBMXKI&linkCode=as2&tag=dualaxles-20&linkId=8cca29cf634f7beda89e9cb343aa0043">Buy</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=dualaxles-20&l=am2&o=1&a=B00AVBMXKI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></td>
 		</tr>
 		<tr>
-			<td><img src="/img/scooters/50cc/taotaothunder.jpg" class="table-image"></td>
+			<td><img src="/img/scooters/50cc/taotaothunder2.jpg" class="table-image"></td>
 			<td>TaoTao Thunder 50</td>
 			<td>$810.00</td>
 			<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00J4TW6ZA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00J4TW6ZA&linkCode=as2&tag=dualaxles-20&linkId=a0939b7924b530663d78308072ecb6f1">Buy</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=dualaxles-20&l=am2&o=1&a=B00J4TW6ZA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></td>
 		</tr>
 		<tr>
-			<td><img src="/img/scooters/50cc/taotaoevo50.jpg" class="table-image"></td>
+			<td><img src="/img/scooters/50cc/taotaoevo502.jpg" class="table-image"></td>
 			<td>TaoTao Evo 50</td>
 			<td>$932.00</td>
 			<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B015L5RLBY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015L5RLBY&linkCode=as2&tag=dualaxles-20&linkId=9b8e56fdb794e35a34816e3cd7f57408">Buy</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=dualaxles-20&l=am2&o=1&a=B015L5RLBY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></td>
