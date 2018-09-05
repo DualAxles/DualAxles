@@ -11,7 +11,7 @@ seotitle: "Best Motor Scooter Moped For Your Money (2018)"
 	Jacob Statler
 </h3>
 
-![scooter article header](/img/scooters/scooter.png){: .img-right .img-small}
+![scooter article header](/img/scooters/scootertwo.png){: .img-right .img-small}
 
 Here's the deal: 
 
@@ -128,7 +128,7 @@ The adventures you go on and the memories you make will last you a life time.
 
 <h2 id="50ccscooters">50cc Scooters</h2>
 
-<img src="/img/scooters/taotaoatm.jpg" id="page-img">
+<img src="/img/scooters/taotaoatm2.jpg" id="page-img">
 
 50cc scooters may have the smallest engine, but they are still the perfect thing to take you around town. Despite typically not being able to go over 40mph, they are good options and come with advantages that other scooters don't have.
 
