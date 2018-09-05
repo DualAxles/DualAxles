@@ -184,7 +184,7 @@ er>	<thead>
 
 <a target="_blank" class="big-button" href="/scooters/50cc/">  View Full 50cc Guide  </a>
 
-<h2 id="150ccscooters">100-150cc Scooters</h2>
+<h2 id="150ccscooters">125cc 150cc Scooters</h2>
 
 100cc, 110cc, 125cc, and 150cc scooters are some of the most popular motor scooters on the roads. They have enough power to keep up with traffic while still being conservative on gas. These scooters are the perfect median to be your everyday cruising machine.
 
@@ -193,3 +193,24 @@ Scooters with engines of this size aren't quite enough for the highway, but can 
 Even though these scooters have increased speed and acceleration, they still have great gas mileage. With a four-stroke engine, 80mpg to 100mpg is still very realistic to achieve.
 
 These scooters are over 50cc so, in most states these scooters will be considered to be motorcycles. Since they're considered motorcycles, you will most likely need some type of motorcycle license to operate one on roads. For more information please look at your local motor scooter and motorcycle laws.
+
+View a quick preview of the best motor scooters for your money here.
+<table class="basic-table" align: cent
+er>
+<thead>
+	<tr>
+		<th>IMG</th>
+		<th>125cc 150cc Scooter</th>
+		<th>Price</th>
+		<th>Buy</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00OM8VNZM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OM8VNZM&linkCode=as2&tag=dualaxles-20&linkId=e56e81a7bb5db6d9d7a6d3e2628ed442">Buy</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=dualaxles-20&l=am2&o=1&a=B00OM8VNZM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></td>
+	</tr>
+</tbody>
+</table>
