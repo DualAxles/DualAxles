@@ -218,6 +218,12 @@ er>
 		<td>$949.00</td>
 		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00OM949PM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OM949PM&linkCode=as2&tag=dualaxles-20&linkId=3497f947facf5403088081f6d242fcdd">Buy</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=dualaxles-20&l=am2&o=1&a=B00OM949PM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></td>
 	</tr>
+	<tr>
+		<td><img src="/img/scooters/150cc/hondalead1252.jpg" class="table-image"></td>
+		<td>Honda Lead 125cc</td>
+		<td>$4995.00</td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B01IPCG7NS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IPCG7NS&linkCode=as2&tag=dualaxles-20&linkId=391815b85914d99500f9faa2dfb62597">Buy</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=dualaxles-20&l=am2&o=1&a=B01IPCG7NS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></td>
+	</tr>
 </tbody>
 </table>
  
