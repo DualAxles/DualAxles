@@ -207,10 +207,11 @@ er>
 </thead>
 <tbody>
 	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td><img src="/img/scooters/150cc/taotaopowermax1502.jpg" class="table-image"></td>
+		<td>TaoTao Powermax 150</td>
+		<td>$1,004.00</td>
 		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00OM8VNZM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OM8VNZM&linkCode=as2&tag=dualaxles-20&linkId=e56e81a7bb5db6d9d7a6d3e2628ed442">Buy</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=dualaxles-20&l=am2&o=1&a=B00OM8VNZM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></td>
 	</tr>
 </tbody>
 </table>
+ 
