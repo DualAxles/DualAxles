@@ -41,15 +41,9 @@ er>	<thead>
 		</tr>
 		<tr>
 			<td><img src="/img/scooters/scooter22.png" class="table-image"></td>
-			<td>100-150cc Scooters</td>
+			<td>125cc 150cc Scooters</td>
 			<td><a href="#150ccscooters">Learn More</a></td>
 			<td><a target="_blank" class="big-button" href="/scooters/100-150cc/">Guide</a></td>
-		</tr>
-		<tr>
-			<td><img src="/img/scooters/scooter32.png" class="table-image"></td>
-			<td>200cc+ Scooters</td>
-			<td>Learn More</td>
-			<td><a target="_blank" class="big-button" href="/scooters/200ccplus/">Guide</a></td>
 		</tr>
 	</tbody>
 </table>
