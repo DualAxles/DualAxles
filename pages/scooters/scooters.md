@@ -28,8 +28,8 @@ er>	<thead>
   		<tr>
 			<th>IMG</th>
 			<th>Scooter Type</th>
-			<th></th>
 			<th>Learn More</th>
+			<th>View Guide</th>
 		</tr>
 	</thead>
 	<tbody>
