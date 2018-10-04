@@ -29,7 +29,7 @@ er>	<thead>
 			<th>IMG</th>
 			<th>Scooter Type</th>
 			<th></th>
-			<th>View</th>
+			<th>Learn More</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -37,13 +37,13 @@ er>	<thead>
 			<td><img src="/img/scooters/50cc2.jpg" class="table-image"></td>
 			<td>50cc Scooters</td>
 			<td><a href="#50ccscooters">Learn More</a></td>
-			<td><a target="_blank" class="big-button" href="/scooters/50cc/">Guide</a></td>
+			<td><a class="big-button" href="/scooters/50cc/">Guide</a></td>
 		</tr>
 		<tr>
 			<td><img src="/img/scooters/scooter22.png" class="table-image"></td>
 			<td>125cc 150cc Scooters</td>
 			<td><a href="#150ccscooters">Learn More</a></td>
-			<td><a target="_blank" class="big-button" href="/scooters/100-150cc/">Guide</a></td>
+			<td><a class="big-button" href="/scooters/100-150cc/">Guide</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -176,7 +176,7 @@ er>	<thead>
 	</tbody>
 </table>
 
-<a target="_blank" class="big-button" href="/scooters/50cc/">  View Full 50cc Guide  </a>
+<a class="big-button" href="/scooters/50cc/">  View Full 50cc Guide  </a>
 
 <h2 id="150ccscooters">125cc 150cc Scooters</h2>
 
@@ -227,4 +227,4 @@ er>
 </tbody>
 </table>
 
-<a target="_blank" class="big-button" href="/scooters/100-150cc/">View Full 125cc 150cc Guide</a>
+<a class="big-button" href="/scooters/100-150cc/">View Full 125cc 150cc Guide</a>
