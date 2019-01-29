@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Buying Your First Motor Scooter in 2019
-permalink: "/blogs/firstbike"
+permalink: "/blogs/firstbike/"
 seotitle: "Things to Consider Before Your First Motor Scooter Purchase"
 ---
 
@@ -10,3 +10,5 @@ seotitle: "Things to Consider Before Your First Motor Scooter Purchase"
 	<img src="/img/profile/headshot.jpg" class="circle" alt="Headshot">
 	Jacob Statler
 </h3>
+
+You've just came back from your summer trip to Rome and you're just now realizing on how cool and awesome motor scooters are?
