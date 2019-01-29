@@ -11,4 +11,4 @@ seotitle: "Things to Consider Before Your First Motor Scooter Purchase"
 	Jacob Statler
 </h3>
 
-You've just came back from your summer trip to Rome and you're just now realizing on how cool and awesome motor scooters are?
+You've just came back from your summer trip to Rome and you're just now realizing on how cool and awesome motor scooters are? You've just noticed people zipping around the city on their beautifully aesthetic Vespas and you can't stop fantasizing being one of those people. Alright you're here for a reason, you want to know more about motor scooters. You also want to know what it will take for you be an owner of one of these bad boys. 
