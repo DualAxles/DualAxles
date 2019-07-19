@@ -74,9 +74,9 @@ Here's a quick list of the reasons you should invest in a scooter!
 
 <h3 id="great gas mileage">Great Gas Mileage</h3>
 
-One of the many great things about riding a scooter is the incredible gase mileage. Scooters will triumph over cars and motorcycles on MPG.
+One of the many great things about riding a scooter is the incredible gas mileage. Scooters will triumph over cars and motorcycles on MPG.
 
-A four stroke 50cc scooter is more than capable of conquering 100mpg and more. Even the two stroke scooters are easily getting over 80mpg. Many 125cc scooters can also meet around 100mpg. If you happen to be looking for more power, all the way up 300cc you could still be getting well over 60mpg. 
+A four-stroke 50cc scooter is more than capable of conquering 100mpg and more. Even the two-stroke scooters are easily getting over 80mpg. Many 125cc scooters can also meet around 100mpg. If you happen to be looking for more power, all the way up to 300cc you could still be getting well over 60mpg. 
 
 Scooters are kings for saving gas, not to mention money and helping the environment with that gas you are saving. If you care about any of these things, a scooter is a no-brainer decision.
 
@@ -92,7 +92,7 @@ To give you an example, it isn't such a crazy thing to find new tires for just a
 
 <h3 id="comfortable to ride">Comfortable to Ride</h3>
 
-Unlike a motorcycle where you are straddling the bike between your legs, with a scooter you can comfortably sit normally as if you're sitting on a chair with wheels.
+Unlike a motorcycle where you are straddling the bike between your legs, with a scooter, you can comfortably sit normally as if you're sitting on a chair with wheels.
 
 A nice place where you can comfortably put your legs and feet, so you won't fatigue as often.
 
@@ -104,21 +104,21 @@ Simply twist the throttle and you're in motion. No wonder why people all ages an
 
 <h3 id="they don't take up much space">They Don't Take up Much Space</h3>
 
-Have you ever been in a city wondering what parking space you're going to squeeze your car into? It's way easier to find a place to park your scooter because they're so much smaller than a car.
+Have you ever been to a city wondering what parking space you're going to squeeze your car into? It's way easier to find a place to park your scooter because they're so much smaller than a car.
 
-Scooters are perfect forms of transportation for city-dwellers. Depending where you live, some places allow you to lane split or travel on the shoulder leaving all of that traffic behind you.
+Scooters are perfect forms of transportation for city-dwellers. Depending on where you live, some places allow you to lane split or travel on the shoulder leaving all of that traffic behind you.
 
 <h3 id="simple & cheap maintenance">Simple and Cheap Maintenance</h3>
 
 Taking care of your scooter is key for its longevity, and it's easy for any average joe to learn.
 
-Engine oil and tire pressure are going to be the most frequent maintences you'll need to keep track of. Both are inexpensive and the oil you buy will last you a very long time considering scooters don't use much
+Engine oil and tire pressure are going to be the most frequent maintenance you'll need to keep track of. Both are inexpensive and the oil you buy will last you a very long time considering scooters don't use much
 
 <h3 id="they're simply a blast to cruise around on">They're Simply a Blast to Cruise Around on</h3>
 
 Cruising around on the open road on two wheels will always be fun. 
 
-The adventures you go on and the memories you make will last you a life time.
+The adventures you go on and the memories you make will last you a lifetime.
 
 <h2 id="50ccscooters">50cc Scooters</h2>
 
@@ -126,11 +126,11 @@ The adventures you go on and the memories you make will last you a life time.
 
 50cc scooters may have the smallest engine, but they are still the perfect thing to take you around town. Despite typically not being able to go over 40mph, they are good options and come with advantages that other scooters don't have.
 
-Since 50cc scooters are only 50cc, in many states you do not need a motorcycle license to drive one. In some states you do not even need a license or a moped permit. For states like Maryland, you are supposed to drive on the shoulder(if available). Driving on the shoulder may sound like a pain, but this gives you the option of passing traffic and getting ahead of everyone even though you'll probably be going under 40mph. However we recommend checking with your state and local laws, so that you know how you can legally ride your scooter.
+Since 50cc scooters are only 50cc, in many states you do not need a motorcycle license to drive one. In some states, you do not even need a license or a moped permit. For states like Maryland, you are supposed to drive on the shoulder(if available). Driving on the shoulder may sound like a pain, but this gives you the option of passing traffic and getting ahead of everyone even though you'll probably be going under 40mph. However, we recommend checking with your state and local laws, so that you know how you can legally ride your scooter.
 
-50cc scooters offer you the best mpg out of all of the engine sizes for scooters because they need less gass. Being able to go over 100 miles on just one tank of gas is a huge advantage.
+50cc scooters offer you the best mpg out of all of the engine sizes for scooters because they need less gas. Being able to go over 100 miles on just one tank of gas is a huge advantage.
 
-These scooters can also be fun projects if you are a beginner or someone who just likes projects. Aftermarket parts for these fun bikes are heavily available online, so you have the ability to upgrade your scooter and make it perform however you want.
+These scooters can also be fun projects if you are a beginner or someone who just likes projects. Aftermarket parts for these fun bikes are heavily available online, so you can upgrade your scooter and make it perform however you want.
 
 View a quick preview of the best motor scooters for your money here.
 <table class="basic-table" align: cent
@@ -174,13 +174,13 @@ er>	<thead>
 
 <h2 id="150ccscooters">125cc 150cc Scooters</h2>
 
-100cc, 110cc, 125cc, and 150cc scooters are some of the most popular motor scooters on the roads. They have enough power to keep up with traffic while still being conservative on gas. These scooters are the perfect median to be your everyday cruising machine.
+100cc, 110cc, 125cc, and 150cc scooters are some of the most popular motor scooters on the roads. They have enough power to keep up with traffic while still being conservative on gas. These scooters are the perfect medium to be your everyday cruising machine.
 
-Scooters with engines of this size aren't quite enough for the highway, but can handle normal streets with ease. They have a way higher rate of acceleration than a 50cc which makes it safer since you can keep up with traffic. 125cc and 150cc scooters are more than capable of reaching speeds of 50mph.
+Scooters with engines of this size aren't quite enough for the highway but can handle normal streets with ease. They have a way higher rate of acceleration than a 50cc which makes it safer since you can keep up with traffic. 125cc and 150cc scooters are more than capable of reaching speeds of 50mph.
 
 Even though these scooters have increased speed and acceleration, they still have great gas mileage. With a four-stroke engine, 80mpg to 100mpg is still very realistic to achieve.
 
-These scooters are over 50cc so, in most states these scooters will be considered to be motorcycles. Since they're considered motorcycles, you will most likely need some type of motorcycle license to operate one on roads. For more information please look at your local motor scooter and motorcycle laws.
+These scooters are over 50cc so, in most states, these scooters will be considered to be motorcycles. Since they're considered motorcycles, you will most likely need some type of motorcycle license to operate one on roads. For more information please look at your local motor scooter and motorcycle laws.
 
 View a quick preview of the best motor scooters for your money here.
 <table class="basic-table" align: cent
