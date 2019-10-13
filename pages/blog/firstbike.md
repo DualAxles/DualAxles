@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Buying Your First Motor Scooter in 2019
-permalink: "/blogs/firstbike/"
+permalink: "/blog/firstbike/"
 seotitle: "Things to Consider Before Your First Motor Scooter Purchase"
 ---
 
